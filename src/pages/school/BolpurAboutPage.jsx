@@ -7,7 +7,7 @@ const BolpurAboutPage = () => {
       {/* Hero Image Section */}
       <section className="hero-image-section" style={{height: '60vh', overflow: 'hidden'}}>
         <img 
-          src="/pictures/image.jpg"
+          src="https://bolpur.tigps.in/assets/images/page-banner/bolpur-banner1.jpg"
           alt="TIGPS Campus" 
           style={{width: '100%', height: '100%', objectFit: 'cover'}}
         />
@@ -51,7 +51,7 @@ const BolpurAboutPage = () => {
               </p>
             </div>
             <div className="col-lg-5 mb-4">
-              <img src="/pictures/mission_vision/vission_mission.png" alt="Mission and Vision" style={{width: '100%', borderRadius: '10px', boxShadow: '0 8px 20px rgba(0,0,0,0.1)'}}/>
+              <img src="/pictures/home/visionmission.jpg" alt="Mission and Vision" style={{width: '100%', borderRadius: '10px', boxShadow: '0 8px 20px rgba(0,0,0,0.1)'}}/>
             </div>
           </div>
           

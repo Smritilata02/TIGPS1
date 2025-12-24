@@ -80,7 +80,7 @@ const BolpurContactPage = () => {
                 </h3>
 
                 <div style={{ marginBottom: '20px' }}>
-                  <h5 style={{ color: 'rgb(100, 19, 32)' }}>Head Office</h5>
+                  <h5 style={{ color: 'rgb(100, 19, 32)' }}>School Address</h5>
                   <p>
                    Prantik Township, Near SSDA Water Tank Bolpur Birbhum Pin no:731235 West Bengal
                   </p>
