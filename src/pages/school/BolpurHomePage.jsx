@@ -10,6 +10,9 @@ const BolpurHomePage = () => {
   return (
     <>
       <Hero carousel={true} /> 
+     
+
+
       <AboutSection  />
       <MissionSection />
       <LegacySection />
