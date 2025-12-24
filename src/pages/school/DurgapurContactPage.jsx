@@ -97,7 +97,7 @@ const DurgapurContactPage = () => {
                 </div>
 
                 <div>
-                  <h5 style={{ color: 'rgb(100, 19, 32)' }}> Hours</h5>
+                  <h5 style={{ color: 'rgb(100, 19, 32)' }}>School Hours</h5>
                   <p>
                     Monday - Friday: 9:00 AM - 5:00 PM<br />
                     Saturday: 9:00 AM - 1:00 PM
