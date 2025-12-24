@@ -80,7 +80,7 @@ const CoochbeharContactPage = () => {
                 </h3>
 
                 <div style={{ marginBottom: '20px' }}>
-                  <h5 style={{ color: 'rgb(100, 19, 32)' }}>School Office</h5>
+                  <h5 style={{ color: 'rgb(100, 19, 32)' }}>School Address</h5>
                   <p>
                     Mati Kata, P.O. : Madhupur More, CoochBehar Pin no:736165 West Bengal
                   </p>

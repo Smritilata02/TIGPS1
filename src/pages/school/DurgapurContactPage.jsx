@@ -80,7 +80,7 @@ const DurgapurContactPage = () => {
                 </h3>
 
                 <div style={{ marginBottom: '20px' }}>
-                  <h5 style={{ color: 'rgb(100, 19, 32)' }}>School Office</h5>
+                  <h5 style={{ color: 'rgb(100, 19, 32)' }}>School Address</h5>
                   <p>
                     A-201, Rangamati Path, Sector-2C, Bidhannagar Durgapur Burdwan Pin no: 713212 West Bengal
                   </p>
