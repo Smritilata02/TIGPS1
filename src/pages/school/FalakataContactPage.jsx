@@ -82,19 +82,18 @@ const FalakataContactPage = () => {
                 <div style={{ marginBottom: '20px' }}>
                   <h5 style={{ color: 'rgb(100, 19, 32)' }}>Head Office</h5>
                   <p>
-                    Corporate Office - DN 25, DN Block, Sector V, Bidhannagar,<br />
-                    Kolkata, West Bengal 700091
+                   Bhutnirghat, Joychandpur, Falakata Alipurduar Pin no:735211 West Bengal
                   </p>
                 </div>
 
                 <div style={{ marginBottom: '20px' }}>
                   <h5 style={{ color: 'rgb(100, 19, 32)' }}>Phone</h5>
-                  <p>+91-7029381692</p>
+                  <p>8334072789</p>
                 </div>
 
                 <div style={{ marginBottom: '20px' }}>
                   <h5 style={{ color: 'rgb(100, 19, 32)' }}>Email</h5>
-                  <p>info@tigps.in</p>
+                  <p>admin.falakata@tigps.in</p>
                 </div>
 
                 <div>
@@ -107,11 +106,11 @@ const FalakataContactPage = () => {
               </div>
             </div>
 
-            {/* GOOGLE MAP SECTION */}
+            GOOGLE MAP SECTION
             <div className="col-md-12 mt-5">
               <iframe
                 className="contact-map"
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d651.2589350310088!2d88.43346471787049!3d22.576227968661808!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a0275a5876be025%3A0xcc7c5dd7b7555866!2sDn-25%2C%20DN%20BLOCK%2C%20DN%20Block%2C%20Sector%20V%2C%20Bidhannagar%2C%20Kolkata%2C%20West%20Bengal%20700091!5e0!3m2!1sbn!2sin!4v1720766806982!5m2!1sbn!2sin"
+                src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14279.07647369686!2d89.14371!3d26.527549!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39e3a3c5c789bcb1%3A0x852e14f0f0cd5c43!2sTechno%20India%20Group%20Public%20School%20falakata!5e0!3m2!1sen!2sus!4v1766498584148!5m2!1sen!2sus"
                 width="100%"
                 height="450"
                 style={{ border: 0 }}

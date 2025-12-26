@@ -20,18 +20,18 @@ const FalakataAboutPage = () => {
             <div className="col-lg-8">
               <h1 style={{fontSize: '2.5rem', fontWeight: '700', marginBottom: '30px', fontFamily: 'Lora'}}>TECHNO INDIA GROUP PUBLIC SCHOOL</h1>
               <p style={{fontSize: '1.1rem', lineHeight: '1.8', marginBottom: '20px', fontFamily: 'Lora'}}>
-                Welcome to Techno India Group Public Schools, where education meets excellence. As a premier chain of schools under the Techno India Group, we are dedicated to nurturing young minds with a holistic approach to learning. Our curriculum blends academic rigor with co-curricular activities, ensuring students excel not only in examinations but also in sports, arts, and community engagement.
+                TIGPS Falakata embarked on its journey of knowledge management in 2014. This co-educational, CBSE-affiliated English medium school offers a stress-free yet stimulating environment that inspires students to excel. Committed to a dynamic teaching-learning experience, the institution ensures that students enjoy the process of acquiring knowledge. 
               </p>
               <p style={{fontSize: '1.1rem', lineHeight: '1.8', marginBottom: '20px', fontFamily: 'Lora'}}>
-                At Techno India Group Public Schools, we believe in fostering a supportive environment that encourages curiosity, creativity, and critical thinking. Our state-of-the-art facilities and qualified faculties ensure that every student receives personalized attention to reach their fullest potential.
+                The academic curriculum integrates value education, environmental studies, communication skills, sports, and artistic and aesthetic development. Beyond traditional classrooms, TIGPS Falakata boasts advanced laboratories, a digital library, a multi-purpose hall, a hobby club, a health and wellness counseling committee, and a school transport service.
               </p>
               <p style={{fontSize: '1.1rem', lineHeight: '1.8', marginBottom: '0', fontFamily: 'Lora'}}>
-                Join us to experience education that goes beyond the textbooks, preparing students for a successful future in an ever-evolving world. Explore our wide range of extracurricular programs, competitive exam preparation, and a commitment to overall student development. Discover the Techno India Group Public Schools difference today.
+              Recreational facilities include a playground, a yoga room, and a badminton court. With a focus on intellectual and creative growth, TIGPS Falakata nurtures young minds capable of transforming future societies through critical and creative thinking.
               </p>
             </div>
             <div className="col-lg-4">
               <img 
-                src="/pictures/image.jpg"
+                src="/pictures/schools/Falakata/Falakata1.jpg"
                 alt="TIGPS Students" 
                 style={{width: '100%', borderRadius: '10px', boxShadow: '0 8px 20px rgba(0, 0, 0, 0.3)'}}
               />
@@ -48,7 +48,7 @@ const FalakataAboutPage = () => {
           <div className="row align-items-center" style={{marginBottom: '50px'}}>
             <div className="col-lg-7 mb-4">
               <p style={{fontSize: '1.1rem', lineHeight: '1.8', color: '#333', fontFamily: 'Lora', textAlign: 'left'}}>
-                Welcome to Techno India Group Public Schools, where we believe in nurturing young minds to become the leaders of tomorrow. With nearly 20 prestigious Schools across West Bengal, our commitment to excellence in education is unwavering. At Techno India Group Public Schools, our mission and vision are the cornerstones that guide our journey towards academic and holistic development.
+                TIGPS Falakata embarked on its journey of knowledge management in 2014. This co-educational, CBSE-affiliated English medium school offers a stress-free yet stimulating environment that inspires students to excel. Committed to a dynamic teaching-learning experience, the institution ensures that students enjoy the process of acquiring knowledge.
               </p>
             </div>
             <div className="col-lg-5 mb-4">
@@ -61,9 +61,7 @@ const FalakataAboutPage = () => {
               <div style={{background: '#f8f9fa', padding: '40px', borderRadius: '10px', height: '100%', border: '2px solid rgb(100, 19, 32)'}}>
                 <h3 style={{fontSize: '2rem', fontWeight: '700', color: 'rgb(100, 19, 32)', marginBottom: '20px', fontFamily: 'Lora'}}>Mission</h3>
                 <ul style={{textAlign: 'left', fontSize: '1rem', lineHeight: '1.6', color: '#333', fontFamily: 'Lora', listStyle: 'none', padding: '0'}}>
-                  <li style={{marginBottom: '15px'}}>• To cultivate a nurturing and progressive learning environment that fosters intellectual curiosity, creativity, and critical thinking skills.</li>
-                  <li style={{marginBottom: '15px'}}>• To equip students with a robust foundation in core subjects and prepare them for future academic endeavors.</li>
-                  <li>• To empower students to become responsible global citizens who are ethical, compassionate, and lifelong learners.</li>
+                  <li style={{marginBottom: '15px'}}>• We are dedicated to supporting young, capable minds with the core competencies needed to demonstrate exceptional leadership and excel in every pursuit within a dynamic and creative economy.</li>
                 </ul>
               </div>
             </div>
@@ -71,8 +69,7 @@ const FalakataAboutPage = () => {
               <div style={{background: '#f8f9fa', padding: '40px', borderRadius: '10px', height: '100%', border: '2px solid rgb(100, 19, 32)'}}>
                 <h3 style={{fontSize: '2rem', fontWeight: '700', color: 'rgb(100, 19, 32)', marginBottom: '20px', fontFamily: 'Lora'}}>Vision</h3>
                 <ul style={{textAlign: 'left', fontSize: '1rem', lineHeight: '1.6', color: '#333', fontFamily: 'Lora', listStyle: 'none', padding: '0'}}>
-                  <li style={{marginBottom: '15px'}}>• To be recognized as a premier chain of schools in West Bengal, renowned for academic excellence, innovative teaching methodologies, and holistic student development.</li>
-                  <li>• To nurture future generations of leaders who are equipped with the knowledge, skills, and values to thrive in the ever-evolving global landscape.</li>
+                  <li style={{marginBottom: '15px'}}>• We envision shaping individuals who are united by a common goal of compassion and commitment to improving humanity, fostering a resilient mindset to overcome challenges in today's global society while preserving traditional values.</li>
                 </ul>
               </div>
             </div>
