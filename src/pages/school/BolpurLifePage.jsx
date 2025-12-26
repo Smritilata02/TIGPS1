@@ -74,7 +74,7 @@ const BolpurLifePage = () => {
       {/* Hero Image Section */}
       <section className="hero-image-section" style={{height: '60vh', overflow: 'hidden'}}>
         <img 
-          src="/pictures/image.jpg" 
+          src="/pictures/hero_section/banner-tigps-11.png" 
           alt="Life at TIGPS" 
           style={{width: '100%', height: '100%', objectFit: 'cover'}}
         />

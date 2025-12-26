@@ -4,7 +4,7 @@ import Hero from '../../components/Hero';
 const BolpurContactPage = () => {
   return (
     <div className="contact-page">
-      <Hero image="/pictures/image.jpg" alt="TIGPS Contact Us" />
+      <Hero image="/pictures/admission/contact_new.avif" alt="TIGPS Contact Us" />
 
       {/* CONTACT FORM SECTION */}
       <section style={{ padding: '80px 20px', background: 'white' }}>

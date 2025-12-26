@@ -13,7 +13,7 @@ const BolpurAboutPage = () => {
         />
       </section>
 
-      {/* About Content Section */}
+      {/* About Content Section
       <section style={{padding: '80px 20px', background: 'rgb(100, 19, 32)', color: 'white'}}>
         <div style={{maxWidth: '1200px', margin: '0 auto'}}>
           <div className="row align-items-center">
@@ -37,7 +37,7 @@ const BolpurAboutPage = () => {
             </div>
           </div>
         </div>
-      </section>
+      </section> */}
 
       {/* Mission & Vision Section */}
       <section style={{padding: '80px 20px', background: 'white'}}>

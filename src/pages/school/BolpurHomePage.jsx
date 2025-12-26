@@ -9,11 +9,13 @@ import InternationalSection from '../../components/InternationalSection';
 const BolpurHomePage = () => {
   return (
     <>
-      <Hero carousel={true} /> 
-     
+      <Hero video="/Video/tigps_bolpur.mp4" />
+      <AboutSection
+  title="TECHNO INDIA GROUP PUBLIC SCHOOL, BOLPUR"
+ 
+  image="/pictures/schools/Bolpur.avif"
+/> 
 
-
-      <AboutSection  />
       <MissionSection />
       <LegacySection />
       <FounderSection />

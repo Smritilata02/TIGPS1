@@ -4,7 +4,7 @@ import Hero from '../../components/Hero';
 const BolpurAcademicsPage = () => {
   return (
     <div className="academics-page">
-      <Hero image="/pictures/image.jpg" alt="TIGPS Academics" />
+      <Hero image="/pictures/hero_section/banner-tigps-3.png" alt="TIGPS Academics" />
 
       {/* Pre-Primary Program Section */}
       <section style={{padding: '80px 20px', background: 'rgb(100, 19, 32)', color: 'white'}}>
